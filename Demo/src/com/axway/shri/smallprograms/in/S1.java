@@ -7,6 +7,7 @@ public class S1 {
 		int i =Integer.parseInt(s);
 		System.out.println(i);
 		Integer j = Integer.valueOf(s);
+		System.out.println("Comeone");
 		System.out.println(j);
 		System.out.println("-------------------");
 		//Integer k = Integer.valueOf(number);
